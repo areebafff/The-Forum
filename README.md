@@ -1,2 +1,2 @@
-# Talk Stalk
+# The Forum
 Implementing a server that provides a common chat room, and implement a GUI client that can communicate with the server. With this system, a client can send text messages to all parties in the chat room, as well as receive notifications when other clients connect or disconnect. Clients do not communicate directly with other clients. Instead, all communication is routed through the central server.
